@@ -9,8 +9,6 @@ body{
     box-sizing: border-box;
   }
   
-
-  
   .container {
     width: 100%;
     max-width: 960px;
@@ -18,9 +16,7 @@ body{
     clear: both;
   }
   
-  h1,
-  h2,
-  h3,
+  h1,h2,h3,
   p {
     margin-bottom: 20px;
   }
@@ -29,9 +25,7 @@ body{
     margin-bottom: 0;
   }
   
-  h1,
-  h2,
-  h3 {
+  h1,h2,h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
     color: #4aaaa5;
@@ -44,12 +38,9 @@ body{
     border-bottom: 3px solid #ddd;
   }
   
-  h2,
-  h3 {
+  h2,h3 {
     font-size: 22px;
   }
-  
-  /* header */
   
   #topheader {
     position: fixed;
